@@ -1,2 +1,8 @@
 /target
 test-data
+
+.claude/**
+
+# FewWord context plugin
+.fewword/scratch/
+.fewword/index/
